@@ -16,6 +16,7 @@ import java.util.Properties;
  */
 public class DB {
 
+    
     public static String user = "sujit";
     public static String connection = "jdbc:mysql://localhost:3306/library?autoReconnect=true&useSSL=false&useUnicode=true";
 
