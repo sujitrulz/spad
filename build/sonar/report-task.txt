@@ -3,5 +3,5 @@ projectKey=sujitrulz_spad
 serverUrl=https://sonarcloud.io
 serverVersion=8.0.0.22548
 dashboardUrl=https://sonarcloud.io/dashboard?id=sujitrulz_spad
-ceTaskId=AXs7RqDcvop40Iyiixdg
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXs7RqDcvop40Iyiixdg
+ceTaskId=AXs7TmjzhNk-JJPRWsoL
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXs7TmjzhNk-JJPRWsoL
